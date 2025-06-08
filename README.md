@@ -78,6 +78,7 @@
 - Pelatihan dan evaluasi model CNN
 - Visualisasi performa model
 - Prediksi gambar uji dan penyimpanan model
+- Inference Model
 
 ---
 
